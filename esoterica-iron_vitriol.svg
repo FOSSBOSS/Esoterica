@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="63.547085mm"
+   height="63.547089mm"
+   viewBox="0 0 240.17796 240.17797"
+   sodipodi:docname="hermetica-iron_vitriol.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     id="namedview4"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.88059701"
+     inkscape:cx="119.74831"
+     inkscape:cy="119.74831"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#ff0000;fill-opacity:0.01829266;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 107.02967,212.63983 V 185.38559 H 80.34322 53.65678 V 159.26695 133.1483 H 26.970339 0.28389829 V 120.65678 108.16525 H 26.970339 53.65678 l -5.01e-4,-26.970335 -5.01e-4,-26.970339 h 26.403043 26.403049 l 0.30445,-26.970339 0.30445,-26.97033871 h 12.47098 12.47097 V 26.848843 c 0,23.800954 0.19794,26.640902 1.90242,27.294974 1.04634,0.401518 11.90545,0.692092 24.13136,0.645723 12.22591,-0.04637 23.12321,-0.0647 24.21622,-0.04073 1.83504,0.04023 1.98728,2.088014 1.98728,26.730011 v 26.686439 h 27.82204 27.82203 v 12.49152 12.49152 H 212.07204 184.25 v 26.11865 26.11864 h -26.11864 -26.11864 v 27.25424 27.25424 h -12.49153 -12.49152 z m -0.24786,-66.14831 0.31993,-13.34322 H 92.870785 78.63983 v 12.87006 c 0,7.07854 0.356026,13.22608 0.791168,13.66123 0.435143,0.43514 6.695097,0.64806 13.911017,0.47315 l 13.119855,-0.318 z m 52.23729,0 0.31993,-13.34322 h -13.66315 -13.66316 v 12.87006 c 0,7.07854 0.35647,13.22652 0.79215,13.66222 0.43568,0.43568 6.44013,0.6486 13.34322,0.47315 l 12.55107,-0.31899 z M 106.7797,93.686441 106.46187,79.207627 H 92.834745 79.207627 l -0.317826,14.478814 -0.317827,14.478809 h 14.262771 14.262775 z m 52.23729,0 -0.31783,-14.478814 h -13.05932 -13.05933 l -0.31783,14.478814 -0.31781,14.478809 h 13.69497 13.69497 z"
+     id="path5412"
+     inkscape:connector-curvature="0" />
+</svg>
