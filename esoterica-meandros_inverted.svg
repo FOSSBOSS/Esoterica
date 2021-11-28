@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg62"
+   width="38.608864mm"
+   height="49.125019mm"
+   viewBox="0 0 145.92327 185.66936"
+   sodipodi:docname="esoterica-meandros_inverted.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs66" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     id="namedview64"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.88059701"
+     inkscape:cx="73.188195"
+     inkscape:cy="92.49484"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg62" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0.28389829,0.28389829 V 12.774132 25.26632 H 60.469445 120.65695 V 72.961633 120.65499 H 93.401085 66.147175 V 100.7839 80.910853 h -12.49023 -12.49219 v 32.363277 32.36523 h 52.23633 52.238285 V 72.961633 0.28389829 H 72.961635 Z m 0,39.74414071 v 72.677731 72.67969 H 72.961635 145.63937 v -11.80274 c 0,-9.34136 -0.34934,-11.93586 -1.67187,-12.44336 -0.919,-0.35266 -27.61888,-0.65803 -59.333995,-0.67773 -31.7151,-0.0196 -58.04719,-0.0399 -58.515622,-0.0469 -0.468433,-0.007 -0.851563,-21.2207 -0.851563,-47.14062 V 66.147163 h 27.822265 27.82227 v 19.87304 19.873047 h 12.49023 12.492195 V 72.961633 40.028039 H 53.088585 Z"
+     id="path6431"
+     inkscape:connector-curvature="0" />
+</svg>

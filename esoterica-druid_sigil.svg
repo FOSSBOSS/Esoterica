@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg72"
+   width="54.723072mm"
+   height="63.547394mm"
+   viewBox="0 0 206.82736 240.17913"
+   sodipodi:docname="esoterica-druid_sigil.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs76" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     id="namedview74"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.88059701"
+     inkscape:cx="103.77995"
+     inkscape:cy="119.74874"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg72" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 55.858078,0.28389829 V 85.934288 171.58272 l 4.572266,3.91407 c 2.515114,2.15284 7.753823,5.50269 11.640629,7.44531 3.88679,1.94261 7.44953,3.54374 7.91796,3.55664 0.46843,0.013 0.85157,-41.88044 0.85157,-93.095698 V 0.28389829 H 68.350265 Z m 69.271482,0 V 5.2604603 10.237023 l 9.36914,2.96289 c 5.15275,1.629245 10.13345,3.469024 11.07031,4.089844 3.86998,2.564465 4.54297,1.39319 4.54297,-7.9199217 V 0.28389829 H 137.61979 Z M 88.789723,17.037804 V 29.95382 42.869835 l 14.478507,0.03125 c 20.15556,0.04521 32.48804,4.158111 48.14649,16.056641 12.46755,9.473833 25.49567,30.039086 28.21289,44.537104 1.51937,8.10686 1.4594,26.90285 -0.10938,34.42383 -1.85684,8.90201 -8.94,23.25728 -15.29687,31.00195 l -5.5918,6.8125 0.31641,15.63477 0.31445,15.63281 3.78125,-2.57422 c 28.67482,-19.5268 46.91585,-59.59677 42.96484,-94.3789 C 201.33926,68.960039 174.56615,35.991775 134.7819,22.342491 123.04743,18.316597 121.27458,18.026776 105.53972,17.54757 Z M 46.651047,34.352257 c -1.765164,0 -14.667221,10.42146 -19.433594,15.697266 -5.83583,6.459566 -13.339032,17.842025 -17.7226561,26.886718 -8.80904698,18.175631 -11.600413,44.051989 -7.056641,65.410159 6.91468,32.5027 28.4133441,58.71217 59.7382811,72.82812 7.902946,3.5613 19.120726,6.40364 31.724606,8.03906 6.01781,0.78085 11.475267,0.80066 16.874997,0.0606 l 5.26758,-0.72266 v -12.05273 -12.05274 l -13.34375,-0.0898 C 87.435913,198.25402 77.631823,195.68115 64.481125,188.32686 41.007369,175.19959 25.159288,148.61887 24.813156,121.79366 24.563474,102.44332 31.408602,83.883808 44.18425,69.268273 l 3.724609,-4.261719 V 49.680382 c 0,-10.458816 -0.399071,-15.328125 -1.257812,-15.328125 z m 79.595703,20.441406 c -0.72381,0 -1.11719,32.606089 -1.11719,92.550777 v 92.55078 h 12.49023 12.49219 V 154.25265 68.612023 l -4.54883,-3.603516 C 141.11226,61.483335 128.4619,54.793663 126.24675,54.793663 Z M 55.858078,221.85226 v 9.02148 9.02148 h 12.492187 12.490238 v -4.97265 -4.97266 l -7.66407,-1.91992 c -4.215883,-1.056 -9.837734,-2.87801 -12.492183,-4.04883 z"
+     id="path6395"
+     inkscape:connector-curvature="0" />
+</svg>
