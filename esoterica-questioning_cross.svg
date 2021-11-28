@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg72"
+   width="48.524136mm"
+   height="58.102455mm"
+   viewBox="0 0 183.39831 219.59983"
+   sodipodi:docname="esoterica-questioning_cross.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs76" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     id="namedview74"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.88059701"
+     inkscape:cx="91.358474"
+     inkscape:cy="109.3905"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg72" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 77.388124,217.89151 C 61.778994,213.68452 48.44398,197.48265 45.259736,178.85593 l -0.630923,-3.69068 h 12.352046 12.352045 l 1.28414,3.6837 c 4.94724,14.19165 19.42442,20.23442 31.796596,13.27188 8.51416,-4.79141 12.74316,-17.17945 9.11889,-26.71202 -0.64631,-1.69991 -7.03653,-9.08365 -14.200496,-16.4083 -14.03612,-14.35094 -16.84153,-18.9492 -18.15862,-29.76322 l -0.79528,-6.52966 h 12.62237 12.622376 v 3.48615 c 0,2.90827 1.92116,5.40244 11.58985,15.04661 17.76722,17.72216 21.02912,23.5477 22.14906,39.55677 0.81145,11.59944 -1.10437,19.1141 -7.25244,28.44706 -5.72713,8.69396 -16.87591,17.02262 -25.42363,18.99265 -6.783576,1.56344 -20.876956,1.38513 -27.297596,-0.34536 z"
+     id="path5870"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 112.70762,91.131352 v -12.49152 h 35.20339 35.20339 v 12.49152 12.491528 h -35.20339 -35.20339 z"
+     id="path5872"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 78.639834,34.919491 V 0.28389829 h 12.49152 12.491526 V 34.919491 69.555085 H 91.131354 78.639834 Z"
+     id="path5874"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0.28389829,91.131352 V 78.639832 H 35.487288 70.690674 v 12.49152 12.491528 H 35.487288 0.28389829 Z"
+     id="path5876"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 86.021184,102.04876 c -9.83797,-4.288968 -7.71431,-20.523238 2.99232,-22.874808 4.52735,-0.99438 11.639346,2.13898 13.343266,5.87869 3.06038,6.71681 0.78036,14.53335 -4.935956,16.921778 -4.78314,1.99852 -6.9535,2.01268 -11.39963,0.0743 z"
+     id="path5878"
+     inkscape:connector-curvature="0" />
+</svg>
