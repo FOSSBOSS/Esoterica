@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg52"
+   width="42.214497mm"
+   height="63.547089mm"
+   viewBox="0 0 159.55085 240.17797"
+   sodipodi:docname="esoterica-celtic_cross.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs56" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     id="namedview54"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.88059701"
+     inkscape:cx="80.002542"
+     inkscape:cy="119.74831"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg52" />
+  <path
+     style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:0.56779659;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 67.283902,188.92718 V 137.9603 l -5.38732,-1.35654 C 46.230212,132.65892 28.376781,114.98797 23.565952,98.664911 L 22.18234,93.970341 11.233119,93.645321 0.28389829,93.320301 V 80.34322 67.366142 L 11.31179,67.041122 22.339682,66.716102 23.06575,63.154231 c 0.399338,-1.95903 2.676046,-7.048758 5.059353,-11.310508 C 35.347635,38.92863 46.213962,29.533808 59.479492,24.735311 l 7.23661,-2.617675 0.32502,-10.916869 0.32502,-10.91686871 h 12.40928 12.40928 l 0.32502,10.97998171 0.32502,10.979981 6.81356,2.251852 c 8.619938,2.848852 18.041388,9.188601 24.759638,16.660908 4.96223,5.519205 11.19146,16.813971 12.79352,23.197079 0.72526,2.889662 0.88297,2.930198 11.40046,2.930198 h 10.66503 V 80.34322 93.402541 H 148.75693 138.24691 L 135.56851,100.5 c -6.53028,17.30452 -18.99181,29.61819 -35.920208,35.49403 l -6.81356,2.36499 -0.29559,50.76752 -0.29559,50.76753 h -12.47983 -12.47983 z m 0,-86.43989 v -9.084749 h -9.08475 c -7.37753,0 -9.08475,0.32487 -9.08475,1.72876 0,3.34426 13.77563,16.418829 17.3178,16.436489 0.46843,0.002 0.8517,-4.08389 0.8517,-9.0805 z m 31.65842,6.33299 c 3.774108,-2.38249 12.629708,-12.702469 12.629708,-14.718189 0,-0.38475 -4.34364,-0.69955 -9.65254,-0.69955 h -9.652538 v 9.084749 c 0,5.41744 0.46752,9.08474 1.15816,9.08474 0.63698,0 3.11973,-1.23829 5.51721,-2.75175 z M 67.283902,58.199153 c 0,-4.996611 -0.33837,-9.084746 -0.75193,-9.084746 -2.4351,0 -10.90371,6.35268 -13.9,10.427001 -5.30509,7.21379 -4.92493,7.74249 5.56718,7.74249 h 9.08475 z m 44.288128,8.112453 c 0,-3.7354 -14.205228,-17.197199 -18.146918,-17.197199 -0.69064,0 -1.15816,3.667302 -1.15816,9.084746 v 9.084745 h 9.652538 c 5.3089,0 9.65254,-0.437531 9.65254,-0.972292 z"
+     id="path5354"
+     inkscape:connector-curvature="0" />
+</svg>
