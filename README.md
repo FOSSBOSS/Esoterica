@@ -1,10 +1,6 @@
 <script>
-const user = "FOSSBOSS";
-const repo = "Esoterica";
-const path = "svgs"; // folder name with your SVGs
-
 async function showSVGs() {
-  const url = `https://api.github.com/${user}/${repo}`;
+  const url = `https://api.github.com/FOSSBOSS/Esoterica`;
   const res = await fetch(url);
   const files = await res.json();
   const container = document.getElementById("gallery");
