@@ -4,7 +4,7 @@ const repo = "Esoterica";
 const path = "svgs"; // folder name with your SVGs
 
 async function showSVGs() {
-  const url = `https://api.github.com/repos/${user}/${repo}/contents/${path}`;
+  const url = `https://api.github.com/repos/${user}/${repo}`;
   const res = await fetch(url);
   const files = await res.json();
   const container = document.getElementById("gallery");
