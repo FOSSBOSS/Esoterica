@@ -1,6 +1,7 @@
 <script>
 async function showSVGs() {
-  const url = `https://api.github.com/FOSSBOSS/Esoterica`;
+  const url = `https://api.github.com/repos/FOSSBOSS/Esoterica/contents`;
+  
   const res = await fetch(url);
   const files = await res.json();
   const container = document.getElementById("gallery");
