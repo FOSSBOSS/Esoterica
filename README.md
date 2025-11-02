@@ -1,6 +1,4 @@
-<script>
-console.log("hello world");
-</script>
+
 
 # Esoterica
 Esoteric symbols in vector image format, from historical lore and mythologies.
