@@ -1,6 +1,6 @@
 <script>
-const user = "YOUR_GITHUB_USERNAME";
-const repo = "YOUR_REPO";
+const user = "FOSSBOSS";
+const repo = "Esoterica";
 const path = "svgs"; // folder name with your SVGs
 
 async function showSVGs() {
