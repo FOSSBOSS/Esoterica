@@ -1,21 +1,5 @@
 <script>
-async function showSVGs() {
-  const url = `https://api.github.com/repos/FOSSBOSS/Esoterica/contents`;
-  
-  const res = await fetch(url);
-  const files = await res.json();
-  const container = document.getElementById("gallery");
-
-  files
-    .filter(f => f.name.endsWith(".svg"))
-    .forEach(f => {
-      const img = document.createElement("img");
-      img.src = f.download_url;
-      container.appendChild(img);
-    });
-}
-
-showSVGs();
+console.log("hello world");
 </script>
 
 # Esoterica
